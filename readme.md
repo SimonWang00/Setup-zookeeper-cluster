@@ -1,5 +1,5 @@
 # zookeeper集群搭建
-ZooKeeper是一个分布式的，开放源码的分布式应用程序协调服务，是Google的Chubby一个开源的实现，是大数据框架Hadoop和Hbase、Elasticsearch的重要组件。
+ZooKeeper是一个分布式的，开放源码的分布式应用程序协调服务，是Google的Chubby一个开源的实现，是大数据框架Hadoop和Hbase、skywalking的重要组件。
 
 ----------
 ## 目录
